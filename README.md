@@ -1,3 +1,7 @@
+## ⚠️ Deprecation Notice
+
+> This project is **deprecated** and is no longer actively maintained. 
+
 # oria-operator
 
 ## Summary
